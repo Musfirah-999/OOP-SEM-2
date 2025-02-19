@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\OOPL\\Week4\\task 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{220697E4-509E-4E5A-9F0F-52EF095F98F4}|task 4\\task 4.csproj|c:\\users\\admin\\desktop\\oopl\\week4\\task 4\\task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220697E4-509E-4E5A-9F0F-52EF095F98F4}|task 4\\task 4.csproj|solutionrelative:task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220697E4-509E-4E5A-9F0F-52EF095F98F4}|task 4\\task 4.csproj|C:\\Users\\Admin\\Desktop\\OOPL\\Week4\\task 4\\task 4\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220697E4-509E-4E5A-9F0F-52EF095F98F4}|task 4\\task 4.csproj|solutionrelative:task 4\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220697E4-509E-4E5A-9F0F-52EF095F98F4}|task 4\\task 4.csproj|C:\\Users\\Admin\\Desktop\\OOPL\\Week4\\task 4\\task 4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220697E4-509E-4E5A-9F0F-52EF095F98F4}|task 4\\task 4.csproj|solutionrelative:task 4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220697E4-509E-4E5A-9F0F-52EF095F98F4}|task 4\\task 4.csproj|C:\\Users\\Admin\\Desktop\\OOPL\\Week4\\task 4\\task 4\\degree_program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220697E4-509E-4E5A-9F0F-52EF095F98F4}|task 4\\task 4.csproj|solutionrelative:task 4\\degree_program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Degree_program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\OOPL\\Week4\\task 4\\task 4\\Degree_program.cs",
+              "RelativeDocumentMoniker": "task 4\\Degree_program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\OOPL\\Week4\\task 4\\task 4\\Degree_program.cs",
+              "RelativeToolTip": "task 4\\Degree_program.cs",
+              "ViewState": "AgIAAA4AAACAzMzMzMwFwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:56:56.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\OOPL\\Week4\\task 4\\task 4\\Subject.cs",
+              "RelativeDocumentMoniker": "task 4\\Subject.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\OOPL\\Week4\\task 4\\task 4\\Subject.cs",
+              "RelativeToolTip": "task 4\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:56:37.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\OOPL\\Week4\\task 4\\task 4\\Student.cs",
+              "RelativeDocumentMoniker": "task 4\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\OOPL\\Week4\\task 4\\task 4\\Student.cs",
+              "RelativeToolTip": "task 4\\Student.cs",
+              "ViewState": "AgIAAAkAAACgzMzMzMwlwBkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:56:19.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\OOPL\\Week4\\task 4\\task 4\\Program.cs",
+              "RelativeDocumentMoniker": "task 4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\OOPL\\Week4\\task 4\\task 4\\Program.cs",
+              "RelativeToolTip": "task 4\\Program.cs",
+              "ViewState": "AgIAANIAAAAAQDMzMzMUwPEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:04:09.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
